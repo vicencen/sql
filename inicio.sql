@@ -2,7 +2,7 @@
 CREATE DATABASE SQL_Warriors;
 GO
 
-USE LetalMetales;
+USE SQL_Warriors;
 GO
 
 -- ==========================================
