@@ -1,5 +1,5 @@
 -- 1. CREACIÓN DE LA BASE DE DATOS
-CREATE DATABASE LetalMetales;
+CREATE DATABASE SQL_Warriors;
 GO
 
 USE LetalMetales;
